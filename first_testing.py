@@ -1,1 +1,2 @@
-print ("Muka juttu")
+print ("Mukava juttu")
+print('Taas on mukavaa')
